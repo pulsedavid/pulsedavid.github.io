@@ -8,7 +8,7 @@
             });    
                
             back_trigger.click(function(){
-                $(".card, body").toggleClass("show-menu");
+                $(".card, body").toggleClass("show-back");
             });
 	   
             settings_trigger.click(function(){
